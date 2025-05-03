@@ -1,7 +1,7 @@
 ## Olá! Eu sou Caio Delgado👋
 
 - 🔭 A procura de estagio
-- 🌱 estudando Python
+- 🌱 Cursando Ciência da Computação
 - 📫 Contato : caio.delgado@aluno.faculdadeimpacta.com.br
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: saopaulino 
