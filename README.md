@@ -25,5 +25,3 @@
 
 
 
-![Snake animation](https://github.com/CaDIxX/CaDixX/blob/output/github-contribuition-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=CaDIxX&&repo=CaDixX&theme=react)](https://github.com/CaDIxX/CaDIxX)
