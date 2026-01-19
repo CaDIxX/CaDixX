@@ -1,4 +1,4 @@
-## Olá! EU sou o Caio Delgado 👋
+## Olá! Eu sou o Caio Delgado 👋
 
 - 🔭 Estou a procura de estágio
 - 🌱 estudando Pandas
